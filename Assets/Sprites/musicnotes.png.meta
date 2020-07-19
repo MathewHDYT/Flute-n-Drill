@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 7222fae52211d204db0530414b5b05a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1203332162443041406
+    second: musicnotes_0
+  - first:
+      213: -6302856141895075735
+    second: musicnotes_1
+  - first:
+      213: 1118947045750933177
+    second: musicnotes_2
+  - first:
+      213: 3501515134903939817
+    second: musicnotes_3
+  - first:
+      213: 3058182459740696579
+    second: musicnotes_4
+  - first:
+      213: -6327969335410472188
+    second: musicnotes_5
+  - first:
+      213: -7366582465920086820
+    second: musicnotes_6
+  - first:
+      213: -1639414997556184205
+    second: musicnotes_7
+  - first:
+      213: 4410896316962414367
+    second: musicnotes_8
+  - first:
+      213: -3169624388248107979
+    second: musicnotes_9
+  - first:
+      213: 1329853878158212733
+    second: musicnotes_10
+  - first:
+      213: 7355538083851260469
+    second: musicnotes_11
+  - first:
+      213: 4153690133620008576
+    second: musicnotes_1
+  - first:
+      213: -3382995725717212109
+    second: musicnotes_2
+  - first:
+      213: -4204397135091357566
+    second: musicnotes_3
+  - first:
+      213: -4355071203851525786
+    second: musicnotes_4
+  - first:
+      213: -5003421754704661217
+    second: musicnotes_0
+  - first:
+      213: -1109772680746120562
+    second: musicnotes_5
+  - first:
+      213: -3573038868584206456
+    second: musicnotes_6
+  - first:
+      213: -6054112567158450562
+    second: musicnotes_7
+  - first:
+      213: 318973597262885137
+    second: musicnotes_8
+  - first:
+      213: 5085317573561840054
+    second: musicnotes_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 867, z: 562, w: 28}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musicnotes_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 855
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08627795b2fd4a930800000000000000
+      internalID: 4153690133620008576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 855
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15fd516c66409ab0800000000000000
+      internalID: -5003421754704661217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 855
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f5f3bf4f2d01d0800000000000000
+      internalID: -3382995725717212109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 855
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a53cd41bf6a5c0800000000000000
+      internalID: -4204397135091357566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 435
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a5e270ddaf83c0800000000000000
+      internalID: -4355071203851525786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 435
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac1be60ab4990f0800000000000000
+      internalID: -1109772680746120562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 435
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fef5d64140a6ec0800000000000000
+      internalID: -3573038868584206456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 435
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76da4c32b87bfba0800000000000000
+      internalID: -6054112567158450562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1113595fbc83d6400800000000000000
+      internalID: 318973597262885137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicnotes_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18
+        width: 255
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b17436d36da29640800000000000000
+      internalID: 5085317573561840054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: f0d7de1271d38054dbbad8d3ddb5afc7, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
